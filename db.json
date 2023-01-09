@@ -1,0 +1,1 @@
+{"_default": {"1": {"name": "user_registration", "username": "text", "first_name": "text", "last_name": "text", "password": "text"}, "2": {"name": "newsletter", "email": "email"}, "3": {"name": "lead generation form", "phone_number": "phone", "email": "email"}, "4": {"name": "article", "title": "text", "body": "text", "username": "text", "current_date": "date"}}}
